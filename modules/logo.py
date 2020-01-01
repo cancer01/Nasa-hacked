@@ -121,7 +121,7 @@ class logo:
 
 \033[1;33m [+] \033[1;32mNasa-Hacked is automatic tool installer.
 \033[1;33m [+] \033[1;32mMade for termux and linux based system.
-\033[1;31m [+] Note :- Use this tool at your own risk.''')
+\033[1;33m [+] Note :- Use this tool at your own risk.''')
     self.tool_footer()
 
 
